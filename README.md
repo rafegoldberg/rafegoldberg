@@ -2,7 +2,7 @@
 
 Nice to meet you. I’m a software engineer and digital designer. I build front end systems for the web, specializing in scalable CSS and Javascript architectures for UI development. I cut my teeth as a [freelancer][rgd2], and have had the opportunity to work alongside some amazingly talented development teams and other design technologists to solve difficult UI problems at scale.
 
-I currently head up the engineering team over at [ReadMe], where we're helping some of the biggest names in tech build their best docs! [**Check out my selected works over at RGD2**][works]. Hit me up on on [GitHub] or [Dribbble]. Or catch me on [LinkedIn].
+Currently, I head up the engineering team over at [ReadMe], where we're helping some of the biggest names in tech build their best docs! [**Check out my selected works over at RGD2**][works]. Hit me up on on [GitHub] or [Dribbble]. Or catch me on [LinkedIn].
 
 
 [readme]: https://readme.io "ReadMe • A better docs experience for developers"
