@@ -1,4 +1,4 @@
-## Hey there, I’m Rafe.  👋 [<img align=right width=80 src=https://user-images.githubusercontent.com/886627/164987222-52584aa2-1337-4cc7-9bbb-9d549d4b21cb.png#gh-light-mode-only>][img#light][<img align=right width=89 src=https://user-images.githubusercontent.com/886627/164987711-f0248670-d747-4e79-b5f5-ec60369c1a4d.png#gh-dark-mode-only></a>][img#dark]
+## Hey there, I’m Rafe.  👋 <!--[<img align=right width=80 src=https://user-images.githubusercontent.com/886627/164987222-52584aa2-1337-4cc7-9bbb-9d549d4b21cb.png#gh-light-mode-only>][img#light][<img align=right width=89 src=https://user-images.githubusercontent.com/886627/164987711-f0248670-d747-4e79-b5f5-ec60369c1a4d.png#gh-dark-mode-only></a>][img#dark]-->
 
 Nice to meet you! I’m a software engineer and design technologist. I build front end systems for the web, specializing in scalable CSS and Javascript architectures for UI development. I cut my teeth as a [freelancer][rgd2] working across a range of visual mediums– from print, to pixels, to code –and have been lucky to work alongside some amazingly talented teams to solve difficult UI problems at scale.
 
