@@ -1,6 +1,4 @@
-[<img align=right width=125 src=https://user-images.githubusercontent.com/886627/164981774-67761828-e6fa-4931-965c-f09acf6bc804.gif#gh-light-mode-only>][twitter#light][<img align=right width=125 src=https://user-images.githubusercontent.com/886627/164981126-0dd37f84-d334-4598-acc1-52b58d472a4c.png#gh-dark-mode-only></a>][twitter#dark]
-
-### Hey there, I’m Rafe!  👋
+### Hey there, I’m Rafe!  👋 [<img align=right width=80 src=https://user-images.githubusercontent.com/886627/164981774-67761828-e6fa-4931-965c-f09acf6bc804.gif#gh-light-mode-only>][twitter#light][<img align=right width=80 src=https://user-images.githubusercontent.com/886627/164981126-0dd37f84-d334-4598-acc1-52b58d472a4c.png#gh-dark-mode-only></a>][twitter#dark]
 
 Nice to meet you. I’m a software engineer and digital designer. I build front end systems for the web, specializing in scalable CSS and Javascript architectures and UI development. I cut my teeth as a [freelancer][rgd2], and I'm currently at [ReadMe] where I head up the engineering team.
 
