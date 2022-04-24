@@ -1,15 +1,23 @@
-### Hey there, I’m Rafe.  👋 [<img align=right width=88 src=https://user-images.githubusercontent.com/886627/164981774-67761828-e6fa-4931-965c-f09acf6bc804.gif#gh-light-mode-only>][twitter#light][<img align=right width=88 src=https://user-images.githubusercontent.com/886627/164981126-0dd37f84-d334-4598-acc1-52b58d472a4c.png#gh-dark-mode-only></a>][twitter#dark]
+### Hey there, I’m Rafe.  👋 [<img align=right width=80 src=https://user-images.githubusercontent.com/886627/164987222-52584aa2-1337-4cc7-9bbb-9d549d4b21cb.png#gh-light-mode-only>][img#light][<img align=right width=89 src=https://user-images.githubusercontent.com/886627/164987711-f0248670-d747-4e79-b5f5-ec60369c1a4d.png#gh-dark-mode-only></a>][img#dark]
 
 Nice to meet you! I’m a software engineer and design technologist. I build front end systems for the web, specializing in scalable CSS and Javascript architectures for UI development. I cut my teeth as a [freelancer][rgd2] working across a range of visual mediums– from print, to pixels, to code –and have been lucky to work alongside some amazingly talented teams to solve difficult UI problems at scale.
 
-Currently, [I head up the engineering team over at ReadMe][ReadMe], where we're helping some of the biggest names in tech build their best docs! You can check out my [selected works][works] over at RGD2, or hit me up on  [<img height=19 align=center src=https://user-images.githubusercontent.com/886627/164987222-52584aa2-1337-4cc7-9bbb-9d549d4b21cb.png>][rgd2]  or  [<img height=20 align=center src=https://user-images.githubusercontent.com/886627/164986811-18c81cf0-a30a-43c0-b08b-376667687dcb.png>][twitter]  or  [<img height=23 align=center src=https://user-images.githubusercontent.com/886627/164986302-8fe984a8-21e0-470f-8ba0-961f1e6ff131.png>][github]  or  [<img height=18 align=center src=https://user-images.githubusercontent.com/886627/164986420-b4814e2b-18d2-4fc1-bbc3-7f2d42e446c6.png>][dribbble]  or  [<img height=16.5 align=center src=https://user-images.githubusercontent.com/886627/164986481-81020955-e647-4669-abb0-0f860dd2d89e.png>][linkedin].
+Currently, [I head up the engineering team over at ReadMe][ReadMe], where we're helping some of the biggest names in tech build their best docs! You can check out my [selected works][works] over at RGD2, or find me on  [<img height=19 align=center src=https://user-images.githubusercontent.com/886627/164987222-52584aa2-1337-4cc7-9bbb-9d549d4b21cb.png#gh-light-mode-only>][rgd2][<img  height=19 align=center src=https://user-images.githubusercontent.com/886627/164987711-f0248670-d747-4e79-b5f5-ec60369c1a4d.png#gh-dark-mode-only>][rgd2#dark]  or  [<img height=20 align=center src=https://user-images.githubusercontent.com/886627/164986811-18c81cf0-a30a-43c0-b08b-376667687dcb.png#gh-light-mode-only>][twitter][<img  height=20 align=center src=https://user-images.githubusercontent.com/886627/164987775-d3870d9d-6bf0-419e-80c4-36870df40cb3.png#gh-dark-mode-only>][twitter#dark]  or  [<img height=23 align=center src=https://user-images.githubusercontent.com/886627/164986302-8fe984a8-21e0-470f-8ba0-961f1e6ff131.png#gh-light-mode-only>][github][<img  height=23 align=center src=https://user-images.githubusercontent.com/886627/164988104-05f03ea4-2dbb-4585-b425-1dfe568e31a3.png#gh-dark-mode-only>][github#dark]  or  [<img height=18 align=center src=https://user-images.githubusercontent.com/886627/164986420-b4814e2b-18d2-4fc1-bbc3-7f2d42e446c6.png#gh-light-mode-only>][dribbble][<img  height=18 align=center src=https://user-images.githubusercontent.com/886627/164987833-a6354a13-7b57-425d-95e8-689c47b92a39.png#gh-dark-mode-only>][dribbble#dark]  or  [<img height=16.5 align=center src=https://user-images.githubusercontent.com/886627/164986481-81020955-e647-4669-abb0-0f860dd2d89e.png#gh-light-mode-only>][linkedin][<img  height=16.5 align=center src=https://user-images.githubusercontent.com/886627/164987848-078ea6ca-57c3-47ff-b677-952e81742ab6.png#gh-dark-mode-only>][linkedin#dark].
+
+
+
 
 [readme]: https://readme.io "ReadMe • A better docs experience for developers"
-[rgd2]: https://www.rgd2.co "RGD2 Studios"
 [works]: http://www.rgd2.co/where "RGD2 Studios • Selected Works"
-[github]: https://github.com/rafegoldberg "Rafe’s GitHub Profile"
-[dribbble]: https://dribbble.com/rgd2 "Rafe’s Dribbble Profile"
-[linkedin]: https://www.linkedin.com/in/rafegoldberg "Rafe’s LinkedIn Profile"
-[twitter]: https://twitter.com/rafegoldberg "Rafe’s Twitter Profile"
-[twitter#light]: https://twitter.com/rafegoldberg#gh-light-mode-only
-[twitter#dark]: https://twitter.com/rafegoldberg#gh-dark-mode-only
+[rgd2]: https://www.rgd2.co#gh-light-mode-only "RGD2 Studios"
+[rgd2#dark]: https://www.rgd2.co#gh-dark-mode-only "RGD2 Studios"
+[github]: https://github.com/rafegoldberg#gh-light-mode-only "Rafe’s GitHub Profile"
+[github#dark]: https://github.com/rafegoldberg#gh-dark-mode-only "Rafe’s GitHub Profile"
+[dribbble]: https://dribbble.com/rgd2#gh-light-mode-only "Rafe’s Dribbble Profile"
+[dribbble#dark]: https://dribbble.com/rgd2#gh-dark-mode-only "Rafe’s Dribbble Profile"
+[linkedin]: https://www.linkedin.com/in/rafegoldberg#gh-light-mode-only "Rafe’s LinkedIn Profile"
+[linkedin#dark]: https://www.linkedin.com/in/rafegoldberg#gh-dark-mode-only "Rafe’s LinkedIn Profile"
+[twitter]: https://twitter.com/rafegoldberg#gh-light-mode-only "Rafe’s Twitter Profile"
+[twitter#dark]: https://twitter.com/rafegoldberg#gh-dark-mode-only "Rafe’s Twitter Profile"
+[img#light]: https://www.rgd2.co#gh-light-mode-only
+[img#dark]: https://www.rgd2.co#gh-dark-mode-only
